@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fe3498-838c-4ddd-b94c-3d675b2066a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/kolorujtlo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/timedate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wypadki.html" beforeDir="false" afterPath="$PROJECT_DIR$/wypadki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/timedate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/timedate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/countdown.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -60,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605518114944</updated>
       <workItem from="1605518115971" duration="21041000" />
-      <workItem from="1605859658380" duration="6409000" />
+      <workItem from="1605859658380" duration="17567000" />
     </task>
     <servers />
   </component>
