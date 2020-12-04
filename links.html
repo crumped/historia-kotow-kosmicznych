@@ -8,6 +8,7 @@
     <meta name="Author" content="Kornel Pietrzyk" />
     <title>Historia lotów kosmicznych</title>
     <script src="assets/js/kolorujtlo.js" type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body>
 
@@ -27,11 +28,23 @@
 </div>
 <div class="main">
     <section class="section-params">
-        <a href="https://pl.wikipedia.org/wiki/Lot_kosmiczny"><div class="title-h1 center">Lot kosmiczny - wikipedia</div></a>
+        <a href="https://pl.wikipedia.org/wiki/Lot_kosmiczny" ><div class="title-h1 center test-block" id="powieksz">Lot kosmiczny - wikipedia</div></a>
         <a href="https://pl.wikipedia.org/wiki/Lista_za%C5%82ogowych_lot%C3%B3w_kosmicznych"><div class="title-h1 center">Załogowy lot kosmiczny</div></a>
         <a href="https://zsobobowa.eu/index.php/tak-dzialamy/fizyka/145-krotka-historia-lotow-kosmicznych"><div class="title-h1 center">Krótka historia lotów</div></a>
         <a href="https://www.benchmark.pl/aktualnosci/prawda-o-pierwszych-lotach-w-kosmos.html"><div class="title-h1 center">Pierwsze loty w kosmos</div></a>
     </section>
 </div>
+<script>
+    $("#powieksz").on("click", function (){
+        if(!$(this).is("animated")){
+            $(this).animate({
+                width: "+=" + 50,
+                height: "+=" + 10,
+                opacity: "-=" + 0.1,
+                duration: 3000
+            })
+        }
+    });
+</script>
 </body>
 </html>
