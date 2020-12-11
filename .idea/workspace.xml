@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fe3498-838c-4ddd-b94c-3d675b2066a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/labor_nr_indeksu_nr_grupy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/vars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/glowna.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/countdown.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/powieksz.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/powieksz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wypadki.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/wypadki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/countdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/countdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/labor_nr_indeksu_nr_grupy.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/labor_nr_indeksu_nr_grupy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/powieksz.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/powieksz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/vars.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/vars.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/wypadki.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/wypadki.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +49,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../komornik-AS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -68,25 +72,13 @@
       <workItem from="1605518115971" duration="21041000" />
       <workItem from="1605859658380" duration="17754000" />
       <workItem from="1607068528627" duration="2858000" />
-      <workItem from="1607071415289" duration="2651000" />
+      <workItem from="1607071415289" duration="2838000" />
+      <workItem from="1607255723380" duration="33000" />
+      <workItem from="1607678184311" duration="3886000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="98" y="355" width="753" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607071362606">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="98" y="355" width="753" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1607071362606" />
-    <state x="755" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1607071644129">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="755" y="479" width="399" height="156" key="NewPhpFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1607071644129" />
-    <state x="143" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1607072943805">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="143" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1607072943805" />
   </component>
 </project>
