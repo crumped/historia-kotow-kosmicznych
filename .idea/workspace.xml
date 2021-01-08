@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98fe3498-838c-4ddd-b94c-3d675b2066a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/glowna.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/showpage.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/countdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/countdown.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/labor_nr_indeksu_nr_grupy.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/labor_nr_indeksu_nr_grupy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/powieksz.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/powieksz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vars.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/vars.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/wypadki.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/wypadki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/timedate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/timedate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../komornik-AS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -74,7 +67,11 @@
       <workItem from="1607068528627" duration="2858000" />
       <workItem from="1607071415289" duration="2838000" />
       <workItem from="1607255723380" duration="33000" />
-      <workItem from="1607678184311" duration="3886000" />
+      <workItem from="1607678184311" duration="4349000" />
+      <workItem from="1608063222527" duration="585000" />
+      <workItem from="1609333100613" duration="289000" />
+      <workItem from="1609680390571" duration="221000" />
+      <workItem from="1610117544817" duration="10576000" />
     </task>
     <servers />
   </component>

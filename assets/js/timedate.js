@@ -4,7 +4,7 @@ let TheDate;
 function gettheDate()
 {
     Todays = new Date();
-    TheDate = "" + (Todays.getMonth()) + " / " + Todays.getDate() + " / " + (Todays.getFullYear());
+    TheDate = "" + (Todays.getMonth()+1) + " / " + Todays.getDate() + " / " + (Todays.getFullYear());
     document.getElementById("data").innerHTML = TheDate;
 }
 

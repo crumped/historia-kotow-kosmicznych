@@ -1,3 +1,7 @@
+<?php
+include 'showpage.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,34 +22,13 @@ if (file_exists('templates/navbar.html')) {
     require('templates/navbar.html');
 }
 
-$page = htmlspecialchars($_GET["page"]);
-$page_name = null;
+$page = isset($_GET['page']) ? htmlspecialchars($_GET['page']) : '';
 
-$pages = array(
-    'crashes'      => 'wypadki',
-    'contact'    => 'contact',
-    'gallery'    => 'gallery',
-    'countdown'    => 'countdown',
-    'links'    => 'links',
-    'films'    => 'filmy',
-    '' => 'glowna',
-);
-if(isset($pages[$page]))
-    $page_name = $pages[$page];
-else
-    $page_name = 'glowna';
-
-if (file_exists('views/'.$page_name.'.html')) {
-    if( $page_name === 'contact')
-        echo '<body class="background-pic-contact">';
-    else
-        echo '<body>';
-    require('views/'.$page_name.'.html');
-}
+echo PokazStrone($page);
 
 $nr_indeksu = ‘150889’;
 $nrGrupy = ‘4’;
-echo 'Autor: Kornel Pietrzyk '.$nr_indeksu.' grupa '.$nrGrupy.' <br /><br />';
+echo 'Autor: Kornel Pietrzyk '.$nr_indeksu.' grupa '.$nrGrupy.' wersja 1.5 <br /><br />';
 ?>
 </body>
 </html>
